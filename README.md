@@ -6,3 +6,5 @@ Concepts of ML
 # Activation functions
 
 # Optimizers
+
+# Regularization
